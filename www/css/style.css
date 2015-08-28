@@ -24,8 +24,12 @@
 }
 
 #nav_f{
-    box-shadow: none !important; 
+    box-shadow: none !important;
     -webkit-box-shadow:none !important;
+}
+html, body{
+   height: 100%;
+   min-height: 100%;
 }
 
 .text_h {
