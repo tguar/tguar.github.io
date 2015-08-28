@@ -1609,7 +1609,15 @@
   background-color: #FFFFFF !important; }
 
 .white-text {
-  color: #FFFFFF !important; }
+  color: #FFFFFF !important;
+}
+.white-text-Right {
+  color: #FFFFFF !important;
+  text-align: right;
+}
+
+
+
 
 /*** Colors ***/
 /*** Badges ***/
