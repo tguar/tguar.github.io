@@ -281,3 +281,14 @@ img {
     height: 100%;
     width: auto;
 }
+.card a {
+  color: blue;
+  margin-right: 0px;
+  -webkit-transition: color 0.3s ease;
+  -moz-transition: color 0.3s ease;
+  -o-transition: color 0.3s ease;
+  -ms-transition: color 0.3s ease;
+  transition: color 0.3s ease;
+  text-transform: none; }
+  .card a:hover {
+    color: orange; }
